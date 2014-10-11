@@ -23,8 +23,11 @@
 		"test",
 		"tests"
 	],
+	"main": "./angular-week.js",
 	"dependencies": {
-		"angular":"~1.2.0"
+		"angular":"~1.2.0",
+    "moment": "~2.8.3",
+    "angular-moment": "~0.8.2"
 	},
 	"devDependencies": {
 	}
