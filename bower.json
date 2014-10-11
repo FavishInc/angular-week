@@ -1,0 +1,31 @@
+{
+	"name": "ng-week",
+	"version": "1.0.0",
+	"authors": [
+		"Michael Favia <michael@favish.com>"
+	],
+	"description": "Angular service for basic week math",
+	"keywords": [
+		"angular",
+		"moment",
+		"week",
+		"weeks",
+		"day",
+		"days",
+		"date",
+		"dates"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"angular":"~1.2.0"
+	},
+	"devDependencies": {
+	}
+}
