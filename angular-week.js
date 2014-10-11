@@ -7,7 +7,7 @@
  * # ngWeek
  * Service in the sitesApp.
  */
-angular.module('angularWeek')
+angular.module('angularWeek', [])
   .service('angularWeek', function ngWeek() {
     var startDate;
     var endDate;
